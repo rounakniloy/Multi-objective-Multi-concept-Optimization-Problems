@@ -1,4 +1,4 @@
-# Multi-objective-Multi-concept-Optimization-Test-Problems
+# Multi-objective Multi-concept Optimization Test Problems
 
 This repository contains existing multi-concept optimization test problems that are reported in the study -
 
